@@ -1,2 +1,2 @@
-# article-practice
-Spring Boot를 이용한 웹 게시판 만들기
+# Spring-Boot-practice
+Spring Boot연습
